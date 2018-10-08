@@ -1,0 +1,3 @@
+@echo off
+REM Test file
+echo "hello world"
